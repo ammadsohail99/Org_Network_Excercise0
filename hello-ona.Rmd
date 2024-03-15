@@ -1,0 +1,28 @@
+---
+title: "hello-ona"
+output:
+  html_document: default
+  pdf_document: default
+date: "2024-03-15"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Loading Libraries
+
+```{r}
+#install.packages("tidyverse")
+library(tidyverse)
+library(igraph)
+```
+
+#Print "Hello, network!"
+
+```{r}
+#Hello, network!
+
+print("Hello, network!")
+```
+
