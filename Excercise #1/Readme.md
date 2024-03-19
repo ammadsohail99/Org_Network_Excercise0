@@ -16,4 +16,5 @@
 6.[optional]: color yourself + classmates differently from contacts – what do you see in this network structure?
 
 
-![LinkedIn Connections Network](Org_Network_Excercise0/Excercise%201/Linkedin_Connections_Networks_Graph.png)
+![LinkedIn Connections Network](./Excercise%20%231/Linkedin_Connections_Networks_Graph.png)
+
