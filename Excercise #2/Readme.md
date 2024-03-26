@@ -3,4 +3,5 @@
 For Code:
 ![Fakebook Network Analysis using R](./Ex2_Network_Analysis_Syed_Ammad_Sohail.Rmd)
 
+![Fakebook Network](./Fakebook_Network.jpg)
 
